@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this repository! In here, you will find a Jupyter Notebook that contains code to interact with the OpenAI API. The notebook makes it easy to run and experiment with the code, while also providing explanations and insights throughout the process.
+Welcome to this repository! In here, you will find a Jupyter Notebook that contains code to interact with the OpenAI API and a simple experiment using synthetic persons. The notebook makes it easy to run and experiment with the code, while also providing explanations and insights throughout the process.
 
 ## Getting Started
 
@@ -14,6 +14,7 @@ To start using the notebook, follow these steps:
 
 ## Adding Your OpenAI API Key
 
+You can find your OpenAI API key here https://platform.openai.com/account/api-keys
 Before you can run the code in the notebook, you will need to add your OpenAI API key. To do this, follow these steps:
 
 1. Locate the `source` folder in the repository.
@@ -21,6 +22,7 @@ Before you can run the code in the notebook, you will need to add your OpenAI AP
 3. Open the `api_key.py` file in your preferred text editor.
 4. Replace `your_openai_api_key_here` with your actual OpenAI API key, which should be a string. Make sure to keep the quotes around the key.
 5. Save the file and close the text editor.
+6. Remember to restart your kernal if running in jupiter notebook
 
 Now you're all set to run the notebook and start interacting with the OpenAI API!
 
