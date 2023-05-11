@@ -1,0 +1,15 @@
+Nr,Parameter,Segment 1,Segment 2,Segment 3,Segment 4
+1,Foretrekker relaterbarhet i en historie,2,5,3,7
+2,Liker konsepter med jevnaldrende karakterer,3,5,5,6
+3,Foretrekker historier med et moralsk budskap,3,7,8,4
+4,Liker skumle historier,3,6,10,2
+5,Liker triste historier,7,4,0,8
+6,Liker morsomme historier,6,2,5,8
+7,Liker spennende historier,4,8,5,2
+8,Liker historier der man har en favortittkarakter,10,2,9,7
+9,Selvfokusert,7,4,0,8
+10,Oppgaveorientert,9,1,7,6
+11,Menneskeorientert,1,9,3,4
+12,Åpensinnet,4,8,5,2
+13,Interessert og nysgjerrig,10,2,8,5
+14,Liker stabilitet og struktur,0,8,2,5
