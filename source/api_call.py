@@ -1,6 +1,5 @@
 import openai
 from api_keys import OPENAI_API_KEY
-openai.api_key = OPENAI_API_KEY
 
 def generate_chatgpt_response(history):
     response = openai.ChatCompletion.create(
@@ -14,7 +13,7 @@ def generate_chatgpt_response(history):
 def generate_chatgpt4_response(history):
     response = openai.ChatCompletion.create(
         model="gpt-4",
-        temperature=0.5,
+        temperature=0.7,
         messages=history,
     )
     return response.choices[0].message.content
